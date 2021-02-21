@@ -1,4 +1,4 @@
-# Social Networking Ads
+# Social Networking Advertisements
 
 Analysis of Cusotmer Behaviour by predicting which customer purchased through the advertisement run on a social media platfrom
 
